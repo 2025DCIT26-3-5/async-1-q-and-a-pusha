@@ -4,6 +4,7 @@
 What is the simplest React example called?
 ## Answer
 Hello World
+-Anyag, Jea
 
 
 
@@ -13,6 +14,7 @@ Hello World
 What does the counter demonstrate in React?
 ## Answer
 State
+-Anyag, Jea
 
 
 
@@ -22,6 +24,7 @@ State
 What are small, reusable parts of a React app called?
 ## Answer
 Components
+-Anyag, Jea
 
 
 
@@ -31,6 +34,4 @@ Components
 What library function creates React elements directly?
 ## Answer
 React.createElement
-
-
 -Anyag, Jea
